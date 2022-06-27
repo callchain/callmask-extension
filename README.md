@@ -2,7 +2,7 @@
 
 CallMask for web browser extension
 
-CallMask support [Google Chrome](), [Open Opera]() and [Brave Browser]() now.
+CallMask support [Google Chrome](https://chrome.google.com/webstore/detail/callmask/fcpngliloiehgcdnhjpkjlnmfhfkpcmf), [Open Opera](https://chrome.google.com/webstore/detail/callmask/fcpngliloiehgcdnhjpkjlnmfhfkpcmf) and [Brave Browser](https://chrome.google.com/webstore/detail/callmask/fcpngliloiehgcdnhjpkjlnmfhfkpcmf) now.
 
 Firefox is under adaption.
 
